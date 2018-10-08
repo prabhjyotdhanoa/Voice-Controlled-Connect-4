@@ -1,5 +1,7 @@
 # Voice-Controlled-Connect-4
 A Connect 4 program that can be controlled with both the keyboard and your voice with additional game mechanics added
+This project was done for the hackathon TurnerHacks
+
 # Inspiration
 During the time we thought about this project, we were really attached to the board game Connect 4. As a result, we based our project upon this board game and use it as a means of learning about using voice inputs in case we may want to use it in future projects.
 
